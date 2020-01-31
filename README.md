@@ -13,7 +13,7 @@ Varför ska man då bygga allt detta? Ingen aning egentligen annat än att det �
 Registrerade groundstations kan man se här: https://fossa.apaluba.com/worldmap/
 
 Så här kan en groundstation se ut.
-https://github.com/sorenandersson/satellitprylar/blob/master/Groundstation.jpg
+![Image]https://github.com/sorenandersson/satellitprylar/blob/master/Groundstation.jpg
 
 Simulatorn
-https://github.com/sorenandersson/satellitprylar/blob/master/Simulator.jpg
+![Image]https://github.com/sorenandersson/satellitprylar/blob/master/Simulator.jpg
