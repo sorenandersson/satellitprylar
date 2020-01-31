@@ -14,8 +14,8 @@ Registrerade groundstations kan man se här: https://fossa.apaluba.com/worldmap/
 
 Så här kan en groundstation se ut.
 
-![Image] https://github.com/sorenandersson/satellitprylar/blob/master/Groundstation.jpg
-
+<img src="https://github.com/sorenandersson/satellitprylar/blob/master/Groundstation.jpg" width="15%" height="15%" />
 Simulatorn
+<img src="https://github.com/sorenandersson/satellitprylar/blob/master/Simulator.jpg" width="15%" height="15%" />
 
-![Image] https://github.com/sorenandersson/satellitprylar/blob/master/Simulator.jpg
+
