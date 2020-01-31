@@ -18,6 +18,7 @@ Så här kan en groundstation se ut.
 <img src="https://github.com/sorenandersson/satellitprylar/blob/master/Groundstation.jpg" width="75%" height="75%" />
 
 Simulatorn
+
 <img src="https://github.com/sorenandersson/satellitprylar/blob/master/Simulator.jpg" width="75%" height="75%" />
 
 
