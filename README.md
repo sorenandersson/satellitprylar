@@ -12,3 +12,8 @@ Programvaran till simulatorn finns här: https://github.com/FOSSASystems/FOSSASA
 Varför ska man då bygga allt detta? Ingen aning egentligen annat än att det är kul. Man får en liten kick när man ser att ens simulerade data dyker upp i flödet på servern med Fossasat data.
 Registrerade groundstations kan man se här: https://fossa.apaluba.com/worldmap/
 
+Så här kan en groundstation se ut.
+https://github.com/sorenandersson/satellitprylar/blob/master/Groundstation.jpg
+
+Simulatorn
+https://github.com/sorenandersson/satellitprylar/blob/master/Simulator.jpg
